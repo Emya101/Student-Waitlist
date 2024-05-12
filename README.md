@@ -1,2 +1,2 @@
 # Student-Waitlist
-A wwaitlist system which makes use of LinkedStack and Stack implementation
+A waitlist system which makes use of LinkedStack and Stack implementation
