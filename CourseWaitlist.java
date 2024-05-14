@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-/**
+/**Emhenya Supreme
  * Represents a waitlist for a course with simulation functionality.
  */
 public class CourseWaitlist {
