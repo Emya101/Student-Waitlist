@@ -1,4 +1,4 @@
-/**
+/**Emhenya Supreme
  * LinkedStack represents a generic stack implementation using a singly linked list.
  *
  * @param <E> the type of elements stored in the stack
