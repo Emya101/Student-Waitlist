@@ -1,4 +1,4 @@
-/**
+/**Emhenya Supreme
  * Represents a student with a student number and name.
  */
 public class Student {
