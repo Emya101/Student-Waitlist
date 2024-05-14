@@ -1,4 +1,5 @@
-/**
+/**Emhenya Supreme
+
  * SinglyLinkedList represents a generic singly linked list.
  *
  * @param <E> the type of elements in the list
