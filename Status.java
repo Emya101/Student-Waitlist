@@ -1,4 +1,4 @@
-/**
+/**Emhenya Supreme
  * Enumeration representing the status of a student's registration.
  */
 public enum Status {
