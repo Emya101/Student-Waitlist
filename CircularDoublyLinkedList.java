@@ -1,4 +1,4 @@
-/**
+/**Emhenya Supreme
  * Represents a circular doubly linked list.
  */
 public class CircularDoublyLinkedList<E> {
