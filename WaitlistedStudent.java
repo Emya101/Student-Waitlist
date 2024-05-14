@@ -1,4 +1,4 @@
-/**
+/**Emhenya Supreme
  * Represents a student who is waitlisted for registration.
  */
 public class WaitlistedStudent extends Student {
